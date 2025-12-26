@@ -9,7 +9,8 @@
         [ctrl + shift + p]      - search file
         [ctrl + shift + e]      - go to sidebar
         [tab + up]              - access file management
-        [ctrl + shift + `]      - open terminal
+        [ctrl + shift + `]      - open new terminal
+        [ctrl + `]              - open existing terminal
         [ctrl + j]              - close terminal
     */
 
